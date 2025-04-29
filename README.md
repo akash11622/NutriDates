@@ -42,7 +42,7 @@ To run the application locally, follow these steps:
 
 1. **Clone the repository**  
    ```
-   git clone https://github.com/3mr-5aled/Tomory.git
+   git clone https://github.com/akash11622/NutriDates.git
    ```
 Get your API keys
 Obtain your API keys from Firebase and Paymob, then create an .env file. Enter the keys as shown in the .example.env.
