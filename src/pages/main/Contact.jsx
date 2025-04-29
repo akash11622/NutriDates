@@ -22,7 +22,7 @@ const Contact = () => {
           />
           <a
             rel="noopener"
-            href="https://3mr5aled.netlify.app/"
+            href="https://akash-portfolio-ten-kappa.vercel.app/"
             target="_blank"
           >
             <span>Developer website</span>
